@@ -5,7 +5,7 @@ data:
   use_classes: ['tree']
   use_n_samples_2d: -1
   use_n_samples_3d: -1
-device: cuda
+device: cpu
 logger:
   log_scalars_every: 100
   log_files_every: 500
